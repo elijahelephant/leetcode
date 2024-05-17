@@ -1,0 +1,1 @@
+Create dict, enumerate through list. ans = target - num. If ans is in dict, return the index of ans and the current index. Else, add the num to the dict.
