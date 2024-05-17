@@ -1,0 +1,1 @@
+Create dictionary of both strings. Then iterate over the first dictionary and check if the key is in the second dictionary. If it is, add the value of the key in the first dictionary to the value of the key in the second dictionary. If it is not, add the key and value to the second dictionary.
